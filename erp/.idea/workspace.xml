@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="718db68b-7b5b-43c5-9914-2801991e6329" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\RuanJian\2_maven\Maven-Ku" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="D:\RuanJian\2_maven\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZyHg5FeeWZt8BZ7MyXagFdshVA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../itcast-service-provider" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.csdj.pojo" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="deploy" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ErpWebApplication">
+    <configuration name="ErpApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="erp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.csdj.erp.ErpApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ErpDaoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="erp-dao" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.csdj.erpdao.ErpDaoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ErpServiceImplApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="erp-service-impl" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.csdj.erpserviceimpl.ErpServiceImplApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ErpWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="erp-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.csdj.ErpWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="718db68b-7b5b-43c5-9914-2801991e6329" name="Default Changelist" comment="" />
+      <created>1585804521871</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585804521871</updated>
+      <workItem from="1585804526679" duration="7213000" />
+      <workItem from="1585827698212" duration="1978000" />
+      <workItem from="1585833796687" duration="4017000" />
+      <workItem from="1585891399142" duration="5000" />
+      <workItem from="1585895322475" duration="3345000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1585828585199">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1585828585199" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1585897191360">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585897191360" />
+    <state width="1493" height="135" key="GridCell.Tab.0.bottom" timestamp="1585837982409">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="135" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585837982409" />
+    <state width="1493" height="135" key="GridCell.Tab.0.center" timestamp="1585837982408">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="135" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585837982408" />
+    <state width="1493" height="135" key="GridCell.Tab.0.left" timestamp="1585837982408">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="135" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585837982408" />
+    <state width="1493" height="135" key="GridCell.Tab.0.right" timestamp="1585837982408">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="135" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585837982408" />
+    <state width="1493" height="135" key="GridCell.Tab.1.bottom" timestamp="1585837982409">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="135" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585837982409" />
+    <state width="1493" height="135" key="GridCell.Tab.1.center" timestamp="1585837982409">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="135" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1585837982409" />
+    <state width="1493" height="135" key="GridCell.Tab.1.left" timestamp="1585837982409">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="135" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1585837982409" />
+    <state width="1493" height="135" key="GridCell.Tab.1.right" timestamp="1585837982409">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="135" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585837982409" />
+    <state x="272" y="0" key="SettingsEditor" timestamp="1585834054262">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="272" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585834054262" />
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1585895322503">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585895322503" />
+    <state x="178" y="120" key="new project wizard" timestamp="1585895563652">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="120" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1585895563652" />
+    <state x="703" y="196" width="672" height="677" key="run.anything.popup" timestamp="1585834001177">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="703" y="196" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1585834001177" />
+  </component>
+</project>
